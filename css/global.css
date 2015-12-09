@@ -1,0 +1,41 @@
+body{
+	background: url(../img/bg.jpg);
+	background-size: cover;
+	color: white;
+}
+h1{
+	text-align: center;
+}
+header{
+	text-align: center;
+	margin: auto;
+	width: 940px;
+}
+#container{
+	background-color: rgba(0, 0, 0, 0.7);
+	background-size: cover;
+	border-style: double;
+	padding: 15px;
+	text-align: center;
+	margin: auto;
+	width: 940px;
+}
+#conteudo{
+	margin: 30px;
+}
+#lista{
+	font-size: 20px;
+	margin: auto;
+	width: 800px;
+	text-align: left;
+}
+footer{
+	background-color: rgba(0, 0, 0, 0.7);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: auto;
+	width: 400px;
+	border-style: double;
+	text-align: center;
+}
