@@ -1,0 +1,36 @@
+body{
+	background: url(../img/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 18px;
+}
+img{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#conteudo{
+	background-color: rgba(0, 0, 0, 0.7);
+}
+.container{
+	padding-bottom: 10px;
+	text-align: center;
+}
+#tuto{
+	text-align: left;
+	padding-left: 40px;
+}
+a{
+	color: white;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: auto;
+    width: 400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
